@@ -1,3 +1,2 @@
 ===========================================Hello World============================================
-Welcome to CPSC 351
-This is Programming Assignment 1
+This program copies contents from one text file to other.
