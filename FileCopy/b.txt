@@ -1,0 +1,3 @@
+===========================================Hello World============================================
+Welcome to CPSC 351
+This is Programming Assignment 1
